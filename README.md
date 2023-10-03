@@ -11,7 +11,7 @@ You need two Links  which are Forwarded To LocalHost:80 and LocalHost:3000
 1. To send to Victim .
 2. Beef listens on Port 3000 ,So this link should be forwared to LocalHost:3000 .
 	
-Just Enter your links in the Script ,Script will do neccessary changes required to opt for your Links .
+Just Enter your links in the start Script ,Script will do neccessary changes required to opt for your Links .
 
 # NGROK Steps :-
 ### STEP 1 : Add these Lines To ngrok.yml [Location .ngrok2/ngrok.yml ]
