@@ -41,3 +41,4 @@ Just Enter your links in the start Script ,Script will do neccessary changes req
 1. ```git clone https://github.com/stormshadow07/BeeF-Over-Wan.git```
 2. ```cd BeeF-Over-Wan```
 3. ```chmod +x BeeFOverWan.py && python BeeFOverWan.py```
+run
